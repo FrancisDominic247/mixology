@@ -1,0 +1,116 @@
+*{
+    /*border: 1px solid green;*/
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: white;
+}
+
+.main {
+    background: url(Image.png) no-repeat;
+    padding: 100px 70px ;
+}
+
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.head{
+    text-align: center;
+}
+
+.test{
+    color: grey;
+    padding-top: 85px;
+    margin-bottom: 10px;
+}
+
+.ass{
+    padding: 0px 4px;
+}
+
+.access{
+    text-decoration: none;
+    background: grey;
+    color: white;
+    padding: 4px 20px;
+    border-radius: 1200px;
+    display: inline-block;
+}
+
+.second{
+    padding: 50px;
+}
+
+.quote{
+    padding: 25px;
+}
+
+.lorem{
+    padding: 15px;
+}
+
+.big {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+}
+
+.sharon{
+    padding: 15px;
+    color: grey;
+}
+
+.man{
+    color: grey;
+}
+
+.high{
+    margin-top: 15px;
+    padding: 2px;
+}
+
+.nemo{
+    margin-top: 15px;
+    padding: 2px;
+    color: grey;  
+}
+
+.cass{
+    padding: 25px 0;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;   
+}
+.cass img{
+    width: 20px;
+}
+
+
+.V2{
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 10px;
+
+}
+
+.V2 img {
+    width: 20px;
+}
+
+.V{
+    display: flex;
+    justify-content: space-around;
+    padding: 125px;  
+}
